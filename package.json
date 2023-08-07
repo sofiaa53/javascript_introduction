@@ -1,0 +1,22 @@
+{
+  "name": "javascript_introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiaa53/javascript_introduction.git"
+  },
+  "author": "Sofia Awiliyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiaa53/javascript_introduction/issues"
+  },
+  "homepage": "https://github.com/sofiaa53/javascript_introduction#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
